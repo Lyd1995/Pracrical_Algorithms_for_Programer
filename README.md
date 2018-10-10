@@ -1,1 +1,1 @@
-# Pracrical_Algorithms_for_Programer
+这个库是用于记录实用算法课程笔记的
